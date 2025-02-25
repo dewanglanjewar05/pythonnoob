@@ -1,3 +1,3 @@
 # pythonnoob
-this is my start of python learning
-author=dewang lanjewar
+this is my start of python learning.
+Author=Dewang lanjewar
